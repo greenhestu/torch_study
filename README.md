@@ -7,7 +7,7 @@ https://wikidocs.net/book/2788 보고 따라하는 중
 * ch5 Softmax Regression (완)
 * ch6 Artificial Neural Network (완)
 * ch7 Convolution and Pooling (완)
-* ch8 Preprocessing for NLP
+* ch8 Preprocessing for NLP (완)
 * ch9 Embedding
 * ch10 RNN
 * ch11 Text generation using many to many RNN 
