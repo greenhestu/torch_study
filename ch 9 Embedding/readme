@@ -1,0 +1,31 @@
+# 한국어 형태소 분석기들(mecab, komoran, kkma, okt) 비교
+https://soohee410.github.io/compare_tagger
+# okt 설치 (jvm 에러 관련)
+https://stricky.tistory.com/398
+# jpype 버전 문제
+https://daewonyoon.tistory.com/386
+
+
+# Word2Vec할 때 사용되는 한국어 덤프파일 다운로드
+# kowiki-latest-pages-articles.xml.bz2
+https://dumps.wikimedia.org/kowiki/latest/
+
+
+# 영어 Pre-trained model download link
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+# 한국어 
+https://github.com/Kyubyong/wordvectors
+
+
+# 임베딩 벡터 시각화 
+python -m gensim.scripts.word2vec2tensor --input [모델명] --output [모델명]
+# 아래 사이트에서 PCA나 T-SNE등 다양한 시각화 기법 사용 가능
+https://projector.tensorflow.org/
+
+
+# glove 설치
+https://velog.io/@ann9902/Glove-설치-에러-해결법
+
+
+# 재밌는 예제 사이트
+http://w.elnn.kr/search/
