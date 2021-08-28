@@ -12,5 +12,5 @@ https://wikidocs.net/book/2788 보고 따라하는 중
 * ch10 RNN (완)
 * ch11 Text generation using many to many RNN (완)
 * ch12 Text classification using many to many RNN (완)
-* ch13 Sequence Labeling
+* ch13 Sequence Labeling (완)
 * ch14 Seq2Seq
